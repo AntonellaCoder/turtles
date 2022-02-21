@@ -1,0 +1,26 @@
+import turtle
+
+turtle.circle(100)
+# turtle.home()
+turtle.left(90)
+turtle.penup()
+turtle.forward(130)
+turtle.right(90)
+turtle.forward(30)
+turtle.dot(40)
+turtle.backward(80)
+turtle.dot(40)
+turtle.right(90)
+turtle.forward(60)
+turtle.left(90)
+turtle.pendown()
+turtle.forward(80)
+turtle.left(180)
+turtle.forward(80)
+turtle.left(90)
+turtle.forward(10)
+turtle.left(90)
+turtle.forward(70)
+
+
+turtle.mainloop()
